@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World";
+    int file_size = 0;
+    double sales = 9.99;
+    std::cout << file_size;
     return 0;
 }
