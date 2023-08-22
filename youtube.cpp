@@ -1,12 +1,8 @@
 #include <iostream>
-using std::cout; // global
 int main()
 {
-    // using std::cout; // declaration only inside of function
-    cout << "Hello World\n"; // argument for 
+    int slices = 5 + 1;
+    int children = slices; // children is equal to slices
+    std::cout << children;
     return 0; // return call
-}
-void test()
-{
-    cout << "test";
 }
