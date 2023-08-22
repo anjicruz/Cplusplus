@@ -1,11 +1,7 @@
 #include <iostream>
 
 int main() {
-    int a = 1;
-    int b = 2;
-    int temp = a;
-    a = b;
-    b = temp;
-    std::cout << a;
+    const double pi = 3.14;
+    pi = 0;
     return 0;
 }
