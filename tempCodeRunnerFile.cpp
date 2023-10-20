@@ -1,1 +1,1 @@
-following number input with line input
+line input
