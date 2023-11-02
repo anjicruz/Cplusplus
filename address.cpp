@@ -4,7 +4,7 @@
 int main()
 {
     using namespace std;
-    int donuts = 6;
+    int donuts = 7;
     double cups = 4.5;
 
     cout << "donuts value = " << donuts;
