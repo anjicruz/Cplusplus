@@ -104,5 +104,6 @@
   "[cpp]": {
     "editor.fontSize": 13,
     "editor.wordWrap": "on"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
